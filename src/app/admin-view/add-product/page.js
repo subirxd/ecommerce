@@ -9,7 +9,7 @@ import { GlobalContext } from "@/context";
 import { addNewProduct, updateAProduct } from "@/services/product";
 import {
   AvailableSizes,
-  adminAddProductformControls,
+  ProductformControls,
   firebaseConfig,
   firebaseStroageURL,
 } from "@/utils";
